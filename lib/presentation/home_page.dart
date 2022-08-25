@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app/ui/widgets/round_dots.dart';
+import 'package:weather_app/presentation/widgets/round_dots.dart';
 import 'package:weather_app/utils/colors.dart';
 
 class WeatherHome extends StatelessWidget {
